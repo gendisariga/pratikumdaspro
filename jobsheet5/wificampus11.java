@@ -18,10 +18,10 @@ public class wificampus11 {
             if (JumlahSKS >= 12){
             System.out.println("Akses Wifi diberikan (mahasiswa aktif)");
            }else{
-           System.out.println("Akses ditolak, SKS Kurang dari 12");
+           System.out.println("akses di tolak");
            }
         }else { 
-        System.out.print("Akses ditolak");    
+        System.out.print("akses di tolak");    
         }
         
        
