@@ -12,9 +12,9 @@ public class ganjilgenap{
 
 
         if (angka %2 == 0){
-            System.out.print("Genap");
+            System.out.print("genap");
         }else { 
-            System.out.print("Ganjil");
+            System.out.print("ganjil");
         }
     }
 }
