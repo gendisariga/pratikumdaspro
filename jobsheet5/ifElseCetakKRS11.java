@@ -4,10 +4,10 @@ import java.util.Scanner;
 
 public class ifElseCetakKRS11 {
     public static void main(String[] args) {
-          Scanner Kiyah = new Scanner (System.in);
+          Scanner endis = new Scanner (System.in);
           System.out.println("--- Cetak KRS SIAKAD ---");
           System.out.print("Masukkan semester saat ini: ");
-          int semester = Kiyah.nextInt();
+          int semester = endis.nextInt();
 
           if (semester == 1){
             System.out.println("KRS Semester 1 ditampilkan");
