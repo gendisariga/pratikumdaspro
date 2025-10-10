@@ -10,10 +10,11 @@ public class ifcetakKRS11 {
          boolean uktlunas= sc.nextBoolean();
          if (uktlunas) {
             System.out.println("pembayaran ukt terverivikasi");
-            System.out.println("silahkan cetak krs dan minta tanda tabfab dpa");
-            
-            
-         }
+            System.out.println("silahkan cetak krs dan minta tanda tabfab dpa");  
+        }else{
+            System.out.println("registrasi di tolak.silahkan lunasi ukt terlebih dahulu");
+        }
+
      }
    
     
