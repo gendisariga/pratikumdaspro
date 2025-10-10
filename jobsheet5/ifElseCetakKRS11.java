@@ -19,11 +19,11 @@ public class ifElseCetakKRS11 {
             System.out.println("KRS Semester 4 ditampilkan");
           }else if (semester == 5){
             System.out.println("KRS Semester 5 ditampilkan");
-             }else if (semester == 6){
+          }else if (semester == 6){
             System.out.println("KRS Semester 6 ditampilkan");
-             }else if (semester == 7){
+          }else if (semester == 7){
             System.out.println("KRS Semester 7 ditampilkan");
-             }else if (semester == 8){
+           }else if (semester == 8){
             System.out.println("KRS Semester 8 ditampilkan");
              }
         else {

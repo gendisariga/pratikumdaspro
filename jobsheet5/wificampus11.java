@@ -1,7 +1,5 @@
 package pratikumdaspro.jobsheet5;
-
 import java.util.Scanner;
-
 public class wificampus11 {
     public static void main(String[] args) {
      Scanner endis = new Scanner (System.in);
@@ -18,10 +16,10 @@ public class wificampus11 {
             if (JumlahSKS >= 12){
             System.out.println("Akses Wifi diberikan (mahasiswa aktif)");
            }else{
-           System.out.println("akses di tolak");
+           System.out.println("Akses ditolak, SKS Kurang dari 12");
            }
         }else { 
-        System.out.print("akses di tolak");    
+        System.out.print("Akses ditolak");    
         }
         
        
